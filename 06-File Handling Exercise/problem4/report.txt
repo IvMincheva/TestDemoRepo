@@ -1,0 +1,9 @@
+.pptx
+--- E:\Python-SoftUni\03-Python Advanced\Advanced_2021\06-File Handling Exercise\problem4\Folder3\deffence.pptx
+--- E:\Python-SoftUni\03-Python Advanced\Advanced_2021\06-File Handling Exercise\problem4\neshto.pptx
+.py
+--- E:\Python-SoftUni\03-Python Advanced\Advanced_2021\06-File Handling Exercise\problem4\04. Directory Traversal.py
+.txt
+--- E:\Python-SoftUni\03-Python Advanced\Advanced_2021\06-File Handling Exercise\problem4\Folder1\random.txt
+--- E:\Python-SoftUni\03-Python Advanced\Advanced_2021\06-File Handling Exercise\problem4\Folder3\extract.txt
+--- E:\Python-SoftUni\03-Python Advanced\Advanced_2021\06-File Handling Exercise\problem4\drugo.txt

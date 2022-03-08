@@ -1,0 +1,2 @@
+ss = []
+while not ss:

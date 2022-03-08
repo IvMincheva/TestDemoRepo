@@ -1,0 +1,9 @@
+py
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\1. Even Lines.py
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\2. Line Numbers.py
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\3. File Manipulator.py
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\4. Directory Traversal.py
+txt
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\report.txt
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\text_1.txt
+---E:\Python-SoftUni\03-Python Advanced\Advanced_2021\Homework-Exercise_ File Handling-1238888\text_2.txt
